@@ -1,0 +1,91 @@
+h1{
+	margin-left:50px;
+	font-weight: bold;
+	font-style: italic;
+	font-size:40px;
+}
+
+body
+{
+	background-color:#ffeee6;
+	font-size:18px;
+}
+
+input{
+	font-size:14px;
+}
+
+option{
+	font-size:20px;
+}
+
+.highlighted a{
+   background-color : #ffad99 !important;
+   background-image :none !important;
+   color: black !important;
+   font-weight:bold !important;
+   font-size: 14pt;
+}
+
+.button {
+  font: bold 18px Arial;
+  text-decoration: none;
+  background-color: #cce6ff;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border: 1px solid #CCCCCC;
+ 
+}
+
+label {
+	display: inline-block;
+	margin: 5px 0;
+}
+
+table {
+	margin:40px auto;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+caption{
+	font-size: 24px;
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+
+td,th {
+	padding: 5px;
+	border-bottom: 1px solid #aaa;
+}
+
+th {
+	background:#ffaa80;
+	border-bottom:2px solid #C1C3D1;
+	border-right: 1px solid #C1C3D1;
+	font-size:18px;
+	font-weight: 100;
+	padding:12px;
+	text-align:center;
+	vertical-align:middle;
+}
+
+tr {
+	border: 1px solid #C1C3D1;
+	background-color: white;
+}
+
+tr:hover td {
+	background:#4E5066;
+	color:#FFFFFF;
+	border-top: 1px solid #22262e;
+}
+
+td {
+	padding:10px;
+	text-align:center;
+	vertical-align:middle;
+	font-weight:300;
+	font-size:18px;
+	border-right: 1px solid #C1C3D1;
+}
